@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🌱I love coding but I am still learning.
 
 <!--
 **Yugo1885/Yugo1885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
