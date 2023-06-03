@@ -1,8 +1,11 @@
+<!--
 ![image](https://user-images.githubusercontent.com/84918859/142649752-3f52d2f8-cf53-4bd6-89e9-2002de807328.gif) 
 ### Hi there 👋
 ### 🌱I am currently learning HTML, Linebot, MQTT.
 ### 👾I have big interest of IOT.
 ### 😁I love learning something new.
+-->
+![Leetcode Stats](https://leetcard.jacoblin.cool/Yugo1885?theme=wtf&ext=activity)
 <!--
 **Yugo1885/Yugo1885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
